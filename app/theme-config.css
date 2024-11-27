@@ -1,0 +1,7 @@
+/* .radix-themes {
+	--default-font-family: var(--font-inter, san-serif);
+} */
+[data-is-root-theme="true"] {
+      font-family: var(--font-inter, 'Inter', sans-serif) !important;
+    }
+    
